@@ -4,8 +4,5 @@ terraform {
       source = "hashicorp/vault"
       version = "3.17.0"
     }
-    gitlab = {
-            source  = "gitlabhq/gitlab"
-    }
   }
 }
